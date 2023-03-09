@@ -1,0 +1,2 @@
+2023-03-04T17:00:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\testingpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-shipping-methods-controller.php on line 28
+
